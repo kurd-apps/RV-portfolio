@@ -8,103 +8,39 @@
   ],
   "sections": {
     "hero": {
-      "name": {
-        "en": "RV Portfolio",
-        "ku": "پۆرتفۆلیۆی RV"
-      },
-      "title": {
-        "en": "Creative Director & Web Developer",
-        "ku": "دەرهێنەری داهێنەر و گەشەپێدەری وێب"
-      },
-      "subtitle": {
-        "en": "I build digital experiences.",
-        "ku": "ئەزموونی دیجیتاڵی دروست دەکەم."
-      },
-      "image": "file:///C:/Users/smart/OneDrive/Desktop/dashboard.html"
+      "name": { "en": "RV Portfolio", "ku": "ناوەکەت" },
+      "title": { "en": "Creative Director & Web Developer", "ku": "دەرهێنەری داهێنەر و گەشەپێدەری وێب" },
+      "subtitle": { "en": "", "ku": "" },
+      "image": ""
     },
     "about": {
-      "heading": {
-        "en": "About Me",
-        "ku": "دەربارەی من"
-      },
-      "desc": {
-        "en": "I am a passionate designer...",
-        "ku": "من دیزاینەرێکی پڕخولیام و ئەزموونێکی زۆرم هەیە لە بواری دیجیتاڵی."
-      },
-      "businessHeading": {
-        "en": "Kurdish Apps",
-        "ku": "کوردیش ئەپس (Kurdish Apps)"
-      },
-      "businessDesc": {
-        "en": "Founder of Kurdish Apps.",
-        "ku": "دامەزرێنەری بزنسی 'کوردیش ئەپس'م، کە ئامانجی دروستکردنی ئەپلیکەیشن و وێبسایتی پێشکەوتووە بۆ خزمەتکردنی کۆمەڵگەی دیجیتاڵی کوردی."
-      },
+      "heading": { "en": "About Me", "ku": "دەربارەی من" },
+      "desc": { "en": "I am a passionate designer...", "ku": "من دیزاینەرێکی پڕخولیام و ئەزموونێکی زۆرم هەیە لە بواری دیجیتاڵی." },
+      "businessHeading": { "en": "Kurdish Apps", "ku": "کوردیش ئەپس (Kurdish Apps)" },
+      "businessDesc": { "en": "Founder of Kurdish Apps.", "ku": "دامەزرێنەری بزنسی 'کوردیش ئەپس'م، کە ئامانجی دروستکردنی ئەپلیکەیشن و وێبسایتی پێشکەوتووە بۆ خزمەتکردنی کۆمەڵگەی دیجیتاڵی کوردی." },
+      "businessLogo": "",
       "businessSocials": {
-        "website": "https://www.youtube.com/channel/UC1kgY21ls4XkdR0XqUWz_lA",
-        "facebook": "https://www.facebook.com/Kusoft14/",
+        "website": "https://kurdishapps.com",
+        "facebook": "",
         "instagram": ""
       }
     },
-    "cv": {
-      "heading": {
-        "en": "Experience",
-        "ku": "ئەزموونەکان"
-      },
-      "items": []
-    },
-    "skills": {
-      "heading": {
-        "en": "Expertise",
-        "ku": "شارەزاییەکان"
-      },
-      "list": []
-    },
-    "clients": {
-      "heading": {
-        "en": "Companies",
-        "ku": "کۆمپانیاکان"
-      },
-      "logos": []
-    },
+    "cv": { "heading": { "en": "Experience", "ku": "ئەزموونەکان" }, "items": [] },
+    "skills": { "heading": { "en": "Expertise", "ku": "شارەزاییەکان" }, "list": [] },
+    "clients": { "heading": { "en": "Companies", "ku": "کۆمپانیاکان" }, "logos": [] },
     "contact": {
-      "heading": {
-        "en": "Contact",
-        "ku": "پەیوەندی"
-      },
+      "heading": { "en": "Contact", "ku": "پەیوەندی" },
       "email": "hello@example.com",
       "phone": "+964 770 000 0000",
-      "address": {
-        "en": "Iraq",
-        "ku": "عێراق"
-      },
+      "address": { "en": "Iraq", "ku": "عێراق" },
       "formKey": "e11bef32-363b-4c18-b93e-b519cf166cd0",
       "socials": {
-        "facebook": "https://www.facebook.com/Kusoft14/",
+        "facebook": "",
         "behance": "",
-        "instagram": ""
+        "instagram": "",
+        "youtube": ""
       }
     }
   },
-  "projects": [
-    {
-      "title": {
-        "ku": "TEST",
-        "en": ""
-      },
-      "category": "وێب دیزاین",
-      "shortDesc": {
-        "ku": "دد",
-        "en": "دد"
-      },
-      "fullDesc": {
-        "ku": "دوو",
-        "en": "وو"
-      },
-      "images": [],
-      "videoLink": "",
-      "date": "2026-03-04",
-      "websiteLink": "https://shirinstan.wuaze.com/",
-      "displayType": "website"
-    }
-  ]
+  "projects": []
 }

@@ -1,33 +1,81 @@
 {
   "sections": {
     "hero": {
-      "name": { "en": "Your Name", "ku": "ناوەکەت لێرە" },
-      "title": { "en": "Creative Director & Web Developer", "ku": "دەرهێنەری داهێنەر و گەشەپێدەری وێب" },
-      "subtitle": { "en": "I build digital experiences and craft visual stories.", "ku": "من ئەزموونی دیجیتاڵی و چیرۆکی بینراو دروست دەکەم." }
+      "name": {
+        "en": "Rivan",
+        "ku": "ڕیڤان"
+      },
+      "title": {
+        "en": "Creative Director & Web Developer",
+        "ku": "دەرهێنەری داهێنەر و گەشەپێدەری وێب"
+      },
+      "subtitle": {
+        "en": "I build digital experiences and craft visual stories.",
+        "ku": "من ئەزموونی دیجیتاڵی و چیرۆکی بینراو دروست دەکەم."
+      }
     },
     "about": {
-      "heading": { "en": "About Me", "ku": "دەربارەی من" },
-      "desc": { "en": "I am a passionate designer and developer with experience in video editing, web design, and digital marketing.", "ku": "من دیزاینەر و گەشەپێدەرێکی پڕخولیام، ئەزموونم هەیە لە مۆنتاژی ڤیدیۆ، دیزاینی وێبسایت، و بەبازاڕکردنی دیجیتاڵی." }
+      "heading": {
+        "en": "About Me",
+        "ku": "دەربارەی من"
+      },
+      "desc": {
+        "en": "I am a passionate designer and developer with experience in video editing, web design, and digital marketing.",
+        "ku": "من دیزاینەر و گەشەپێدەرێکی پڕخولیام، ئەزموونم هەیە لە مۆنتاژی ڤیدیۆ، دیزاینی وێبسایت، و بەبازاڕکردنی دیجیتاڵی."
+      }
     },
     "skills": {
-      "heading": { "en": "Expertise", "ku": "شارەزاییەکان" },
+      "heading": {
+        "en": "Expertise",
+        "ku": "شارەزاییەکان"
+      },
       "list": [
-        { "name": { "en": "Video Editing & Motion", "ku": "مۆنتاژی ڤیدیۆ و مۆشن" }, "percent": "90" },
-        { "name": { "en": "Web Development", "ku": "گەشەپێدانی وێب" }, "percent": "85" }
+        {
+          "name": {
+            "ku": "مۆنتاژی ڤیدیۆ و مۆشن",
+            "en": "Video Editing & Motion"
+          },
+          "percent": "90"
+        },
+        {
+          "name": {
+            "ku": "گەشەپێدانی وێب",
+            "en": "Web Development"
+          },
+          "percent": "85"
+        },
+        {
+          "name": {
+            "ku": "تاقیگە",
+            "en": "Labratory"
+          },
+          "percent": "90"
+        }
       ]
     }
   },
   "projects": [
     {
-      "id": 1,
-      "title": { "en": "Shirinistan Cookie Advertisement", "ku": "ڕیکلامی ڤیدیۆیی بۆ بسکویتی شیرینستان" },
-      "category": { "en": "Video Production", "ku": "بەرهەمهێنانی ڤیدیۆ" },
-      "shortDesc": { "en": "A promotional video ad created for Shirinistan brand.", "ku": "ڤیدیۆیەکی ڕیکلامی سەرنجڕاکێش کە بۆ براندی شیرینستان ئامادە کراوە." },
-      "fullDesc": { "en": "This project involved writing the scenario, shooting, and full post-production including motion graphics to highlight the quality of Shirinistan cookies.", "ku": "ئەم پڕۆژەیە پێکهاتبوو لە نووسینی سیناریۆ، وێنەگرتن، و مۆنتاژێکی پرۆفیشناڵ لەگەڵ مۆشن گرافیک بۆ دەرخستنی کوالێتی بەرهەمەکانی شیرینستان." },
+      "title": {
+        "ku": "ڕیکلامی ڤیدیۆیی بۆ بسکویتی شیرینستان",
+        "en": "Shirinistan Cookie Advertisement"
+      },
+      "category": {
+        "ku": "بەرهەمهێنانی ڤیدیۆ",
+        "en": "Video Production"
+      },
+      "shortDesc": {
+        "ku": "ڤیدیۆیەکی ڕیکلامی سەرنجڕاکێش کە بۆ براندی شیرینستان ئامادە کراوە.",
+        "en": "A promotional video ad created for Shirinistan brand."
+      },
+      "fullDesc": {
+        "ku": "ئەم پڕۆژەیە پێکهاتبوو لە نووسینی سیناریۆ، وێنەگرتن، و مۆنتاژێکی پرۆفیشناڵ لەگەڵ مۆشن گرافیک بۆ دەرخستنی کوالێتی بەرهەمەکانی شیرینستان.",
+        "en": "This project involved writing the scenario, shooting, and full post-production including motion graphics to highlight the quality of Shirinistan cookies."
+      },
+      "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ",
       "images": [
         "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?q=80&w=800&auto=format&fit=crop"
-      ],
-      "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      ]
     }
   ]
 }

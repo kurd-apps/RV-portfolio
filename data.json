@@ -1,81 +1,42 @@
 {
   "sections": {
     "hero": {
-      "name": {
-        "en": "Rivan",
-        "ku": "ڕیڤان"
-      },
-      "title": {
-        "en": "Creative Director & Web Developer",
-        "ku": "دەرهێنەری داهێنەر و گەشەپێدەری وێب"
-      },
-      "subtitle": {
-        "en": "I build digital experiences and craft visual stories.",
-        "ku": "من ئەزموونی دیجیتاڵی و چیرۆکی بینراو دروست دەکەم."
-      }
+      "name": { "en": "Your Name", "ku": "ناوی تۆ" },
+      "title": { "en": "Creative Director & Developer", "ku": "دەرهێنەری داهێنەر و گەشەپێدەر" },
+      "subtitle": { "en": "I build digital experiences.", "ku": "ئەزموونی دیجیتاڵی دروست دەکەم." },
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop"
     },
     "about": {
-      "heading": {
-        "en": "About Me",
-        "ku": "دەربارەی من"
-      },
-      "desc": {
-        "en": "I am a passionate designer and developer with experience in video editing, web design, and digital marketing.",
-        "ku": "من دیزاینەر و گەشەپێدەرێکی پڕخولیام، ئەزموونم هەیە لە مۆنتاژی ڤیدیۆ، دیزاینی وێبسایت، و بەبازاڕکردنی دیجیتاڵی."
-      }
+      "heading": { "en": "About Me", "ku": "دەربارەی من" },
+      "desc": { "en": "I am a passionate designer...", "ku": "من دیزاینەرێکی پڕخولیام..." }
     },
-    "skills": {
-      "heading": {
-        "en": "Expertise",
-        "ku": "شارەزاییەکان"
-      },
-      "list": [
+    "cv": {
+      "heading": { "en": "Experience & Education", "ku": "ئەزموون و بڕوانامە (CV)" },
+      "items": [
         {
-          "name": {
-            "ku": "مۆنتاژی ڤیدیۆ و مۆشن",
-            "en": "Video Editing & Motion"
-          },
-          "percent": "90"
-        },
-        {
-          "name": {
-            "ku": "گەشەپێدانی وێب",
-            "en": "Web Development"
-          },
-          "percent": "85"
-        },
-        {
-          "name": {
-            "ku": "تاقیگە",
-            "en": "Labratory"
-          },
-          "percent": "90"
+          "role": { "en": "Senior Editor", "ku": "سەرپەرشتیاری مۆنتاژ" },
+          "place": { "en": "Media Company", "ku": "کۆمپانیای میدیا" },
+          "year": "2022 - 2026",
+          "desc": { "en": "Managed full video production.", "ku": "سەرپەرشتی بەرهەمهێنانی ڤیدیۆکانم کردووە." }
         }
       ]
+    },
+    "skills": {
+      "heading": { "en": "Expertise", "ku": "شارەزاییەکان" },
+      "list": [
+        { "name": { "en": "Video Editing", "ku": "مۆنتاژی ڤیدیۆ" }, "percent": "90" }
+      ]
+    },
+    "clients": {
+      "heading": { "en": "Companies I've Worked With", "ku": "ئەو کۆمپانیایانەی کارم بۆ کردوون" },
+      "logos": []
+    },
+    "contact": {
+      "heading": { "en": "Let's Work Together", "ku": "پەیوەندیم پێوە بکە" },
+      "email": "hello@example.com",
+      "phone": "+964 770 000 0000",
+      "address": { "en": "Sulaymaniyah, Iraq", "ku": "سلێمانی، عێراق" }
     }
   },
-  "projects": [
-    {
-      "title": {
-        "ku": "ڕیکلامی ڤیدیۆیی بۆ بسکویتی شیرینستان",
-        "en": "Shirinistan Cookie Advertisement"
-      },
-      "category": {
-        "ku": "بەرهەمهێنانی ڤیدیۆ",
-        "en": "Video Production"
-      },
-      "shortDesc": {
-        "ku": "ڤیدیۆیەکی ڕیکلامی سەرنجڕاکێش کە بۆ براندی شیرینستان ئامادە کراوە.",
-        "en": "A promotional video ad created for Shirinistan brand."
-      },
-      "fullDesc": {
-        "ku": "ئەم پڕۆژەیە پێکهاتبوو لە نووسینی سیناریۆ، وێنەگرتن، و مۆنتاژێکی پرۆفیشناڵ لەگەڵ مۆشن گرافیک بۆ دەرخستنی کوالێتی بەرهەمەکانی شیرینستان.",
-        "en": "This project involved writing the scenario, shooting, and full post-production including motion graphics to highlight the quality of Shirinistan cookies."
-      },
-      "videoLink": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      "images": [
-        "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?q=80&w=800&auto=format&fit=crop"
-      ]
-    }
-  ]
+  "projects": []
 }

@@ -150,10 +150,6 @@
       ]
     },
     "contact": {
-      "heading": {
-        "en": "Contact",
-        "ku": "پەیوەندی"
-      },
       "email": "rivan.vola18@gmail.com",
       "phone": "+964 773 174 75 7 6",
       "address": {
@@ -163,9 +159,13 @@
       "formKey": "e11bef32-363b-4c18-b93e-b519cf166cd0",
       "socials": {
         "facebook": "https://www.facebook.com/rivan.vola",
-        "behance": "https://www.behance.net/volakurd",
         "instagram": "",
-        "youtube": "https://www.youtube.com/@rivanvola8424"
+        "youtube": "https://www.youtube.com/@rivanvola8424",
+        "behance": "https://www.behance.net/volakurd"
+      },
+      "heading": {
+        "en": "Contact",
+        "ku": "پەیوەندی"
       }
     }
   },

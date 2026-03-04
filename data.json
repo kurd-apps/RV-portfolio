@@ -210,6 +210,17 @@
   ],
   "custom": {
     "links": [],
-    "texts": []
+    "texts": [
+      {
+        "title": {
+          "ku": "test",
+          "en": "tets"
+        },
+        "content": {
+          "ku": "hhhh",
+          "en": "hhh"
+        }
+      }
+    ]
   }
 }

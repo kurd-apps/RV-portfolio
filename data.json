@@ -1,55 +1,23 @@
 {
-  "profile": {
-    "name": {
-      "ku": "ڕیڤان عومەر سەلیم",
-      "en": "Rivan Omer Salim"
-    },
-    "title": {
-      "ku": "دیزاینەر و گەشەپێدەری وێب و تاقیگە",
-      "en": "Creative Designer & Web Developer & Laboratory Technician"
-    },
-    "image": "https://i.ibb.co/fV4PFKRX/9ef7ed06-9f90-4aac-aa94-58c1c86b8172.jpg"
+  "ui": {
+    "logo": { "en": "JULIA.", "ku": "جولیا." },
+    "navHome": { "en": "Home", "ku": "سەرەتا" },
+    "navWork": { "en": "Works", "ku": "کارەکانم" },
+    "navContact": { "en": "Contact", "ku": "پەیوەندی" },
+    "heroDesc": { "en": "I am a digital designer & web developer.", "ku": "من دیزاینەر و گەشەپێدەری وێبم." },
+    "workTitle": { "en": "Selected Works", "ku": "هەڵبژاردەی کارەکانم" },
+    "contactTitle": { "en": "Let's Talk", "ku": "با قسە بکەین" }
   },
-  "skills": [
-    {
-      "name": {
-        "en": "Photoshop & Illustrator",
-        "ku": "فۆتۆشۆپ و ئیلێسترەیتەر"
-      },
-      "level": "90%"
-    },
-    {
-      "name": {
-        "en": "Web Development",
-        "ku": "دروستکردنی وێبسایت"
-      },
-      "level": "85%"
-    },
-    {
-      "name": {
-        "en": "Medical Laboratory",
-        "ku": "تاقیگەی پزیشکی"
-      },
-      "level": "80%"
-    }
-  ],
   "projects": [
     {
-      "title": {
-        "ku": "داشبۆردی پزیشکی",
-        "en": "Medical Dashboard"
-      },
-      "desc": {
-        "ku": "سیستەمێکی تەواو بۆ نۆرینگەکان.",
-        "en": "A complete system for clinics."
-      },
-      "image": "https://via.placeholder.com/400x300"
-    }
-  ],
-  "clients": [
-    {
-      "name": "Company A",
-      "logo": "https://via.placeholder.com/100"
+      "id": 1,
+      "title": { "en": "Medical Lab Interface", "ku": "ڕووکاری تاقیگەی پزیشکی" },
+      "category": { "en": "Web Design", "ku": "وێب دیزاین" },
+      "desc": { "en": "A full dashboard for medical labs to manage tests.", "ku": "داشبۆردێکی تەواو بۆ تاقیگەکان." },
+      "images": [
+        "https://via.placeholder.com/800x600"
+      ],
+      "videoLink": "https://youtube.com/..."
     }
   ]
 }

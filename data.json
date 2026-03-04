@@ -45,13 +45,13 @@
         },
         "desc": {
           "ku": "دامەزرێنەری کارگەی 'شیرینستان'م کە تایبەتە بە دروستکردنی شیرینی بۆ بۆنە و ئاهەنگەکان.",
-          "en": ""
+          "en": "Founder of 'Shirinistan,' a factory specializing in crafting premium sweets and cookies for events and celebrations."
         },
         "logo": "images/1772629500210-logo.png",
         "socials": {
-          "website": "",
-          "facebook": "",
-          "instagram": "",
+          "website": "https://shirinstan.wuaze.com/",
+          "facebook": "https://www.facebook.com/Shirinstan",
+          "instagram": "https://www.instagram.com/shirinstan_sweets",
           "youtube": ""
         }
       },
